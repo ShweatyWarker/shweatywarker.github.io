@@ -9,7 +9,7 @@
     color: #6805f3;
     font-weight: 700;
 }  
- 
+
 body {
 font-size: 1.6em;
 background: #7b7676;
@@ -33,7 +33,7 @@ height: 900px;
     width: 50%;
     height: 900px;
     float: left;
-    background: #d90f0f;
+    background: #722121;
     padding: 25px 50px;
 }
 
@@ -41,7 +41,7 @@ height: 900px;
     width: 50%;
     height: 900px;
     float: right;
-    background: #21d46f;
+    background: #1d7c46;
     padding: 25px 50px; 
 }
 footer {
