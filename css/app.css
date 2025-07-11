@@ -7,7 +7,9 @@
 
 .purple {
     color: #6805f3;
-}   
+    font-weight: 700;
+}  
+ 
 body {
 font-size: 1.6em;
 background: #7b7676;
