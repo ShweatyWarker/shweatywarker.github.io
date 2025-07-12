@@ -108,3 +108,30 @@ color: rgb(255, 255, 255);         /* Change text to white */
   margin-top: 500px;     /* Push it lower below the heading */
   font-size: 2.0em;
 }
+#about-me p {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6); /* Black with transparency */
+  padding: 20px;
+  margin-top: 500px;
+  font-size: 1.8em;
+  display: inline-block; /* So background hugs the text */
+  border-radius: 10px;   /* Optional: rounded corners */
+}
+#computers p {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6); /* Black with transparency */
+  padding: 20px;
+  margin-top: 500px;
+  font-size: 1.8em;
+  display: inline-block; /* So background hugs the text */
+  border-radius: 10px;   /* Optional: rounded corners */
+}
+#keyboards p {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6); /* Black with transparency */
+  padding: 20px;
+  margin-top: 500px;
+  font-size: 1.8em;
+  display: inline-block; /* So background hugs the text */
+  border-radius: 10px;   /* Optional: rounded corners */
+}
